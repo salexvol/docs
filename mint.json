@@ -17,8 +17,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Suporte",
+      "url": "mailto:suporte@maketalk.app"
     }
   ],
   "topbarCtaButton": {
@@ -29,13 +29,6 @@
     {
       "name": "API Reference",
       "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
     }
   ],
   "navigation": [
